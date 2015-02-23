@@ -2,7 +2,7 @@
   "name": "rain-syntax",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "A calming syntax theme to match Rain UI.",
+  "description": "A calming syntax theme for Atom. Matches Rain UI.",
   "repository": "https://github.com/nickpfisterer/rain-syntax",
   "license": "MIT",
   "engines": {
