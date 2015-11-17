@@ -1,7 +1,7 @@
 {
   "name": "rain-syntax",
   "theme": "syntax",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A calming syntax theme for Atom. Matches Rain UI.",
   "repository": "https://github.com/nkpfstr/rain-syntax",
   "license": "MIT",
