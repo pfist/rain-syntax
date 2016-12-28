@@ -1,7 +1,7 @@
 
-![Title](art/title.png)
+![Title](https://github.com/nkpfstr/rain-syntax/blob/master/art/title.png)
 
-![Example](art/example.png)
+![Example](https://github.com/nkpfstr/rain-syntax/blob/master/art/example.png)
 
 > The font used in the screenshot is [Office Code Pro](https://github.com/nathco/Office-Code-Pro).
 
