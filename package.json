@@ -2,10 +2,17 @@
   "name": "rain-syntax",
   "theme": "syntax",
   "version": "1.0.2",
-  "description": "A calming syntax theme for Atom. Matches Rain UI.",
+  "description": "An Atom syntax theme inspired by the elegant beauty of rain.",
+  "keywords": [
+    "rain",
+    "calm",
+    "blue",
+    "dark",
+    "syntax"
+  ],
   "repository": "https://github.com/nkpfstr/rain-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">=0.174.0 <2.0.0"
+    "atom": ">0.50.0"
   }
 }
