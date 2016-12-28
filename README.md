@@ -3,6 +3,8 @@
 
 ![Example](art/example.png)
 
+> The font used in the screenshot is [Office Code Pro](https://github.com/nathco/Office-Code-Pro).
+
 # Install
 
 From the command line:
