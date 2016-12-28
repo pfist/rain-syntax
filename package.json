@@ -1,7 +1,7 @@
 {
   "name": "rain-syntax",
   "theme": "syntax",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "An Atom syntax theme inspired by the elegant beauty of rain.",
   "keywords": [
     "rain",
