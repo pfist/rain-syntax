@@ -1,16 +1,34 @@
-// Rain Syntax: Colors
-// ----------------------------
-// These colors are specific to the theme. Do not use in a package!
 
-@rain-darkest:  #455463;
-@rain-dark:     #61778c;
-@rain-mid:      #909fad;
-@rain-light:    #ced5db;
+/* COLOR DEFINITIONS */
 
-@red:           #ff8a80;
-@purple:        #b39ddb;
-@cyan:          #6dcff6;
-@blue:          #7da7d9;
-@green:         #82ca9c;
-@yellow:        #c4df9b;
-@orange:        #ff9e80;
+// Dependencies
+@import 'vendor/open-color';
+
+// Config
+@syntax-hue:          208;
+@syntax-saturation:   32%;
+@syntax-brightness:   22%;
+
+// Monochrome
+@mono-1: hsl(@syntax-hue, 48%, 92%);
+@mono-2: hsl(@syntax-hue, 32%, 72%);
+@mono-3: hsl(@syntax-hue, 32%, 48%);
+
+// Colors
+@hue-1:   @mono-1;
+@hue-2:   desaturate(@oc-violet-4, 40%);
+@hue-3:   @oc-grape-2;
+@hue-4:   @oc-green-2;
+
+@hue-5:   @oc-cyan-3;
+@hue-5-2: @mono-3;
+
+@hue-6:   @oc-blue-3;
+@hue-6-2: @oc-indigo-4;
+
+// Base colors
+@syntax-fg:     @mono-1;
+@syntax-bg:     hsl(@syntax-hue, @syntax-saturation, @syntax-brightness);
+@syntax-gutter: @mono-3;
+@syntax-guide:  fade(@syntax-fg, 10%);
+@syntax-accent: hsl(@syntax-hue, 100%, 76% );
