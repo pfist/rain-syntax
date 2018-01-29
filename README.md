@@ -1,7 +1,7 @@
 
-![Title](https://raw.githubusercontent.com/polymoon/rain-syntax/master/art/title.png)
+![Title](https://raw.githubusercontent.com/polymoon/rain-syntax/master/assets/title.png)
 
-![Example](https://raw.githubusercontent.com/polymoon/rain-syntax/master/art/example.png)
+![Example](https://raw.githubusercontent.com/polymoon/rain-syntax/master/assets/example.png)
 
 > The font used in the screenshot is [Office Code Pro](https://github.com/nathco/Office-Code-Pro).
 
