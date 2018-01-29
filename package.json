@@ -10,7 +10,7 @@
     "dark",
     "syntax"
   ],
-  "repository": "https://github.com/nkpfstr/rain-syntax",
+  "repository": "https://github.com/polymoon/rain-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
